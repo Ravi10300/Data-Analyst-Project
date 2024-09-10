@@ -25,7 +25,7 @@ The data has been sourced from CognoRise and processed using Microsoft Excel to 
 #### Microsoft Excel: For initial data cleaning and preprocessing.
 # Usage Instructions
 # Clone this repository:
-#### git clone https://github.com/yourusername/unemployment-covid19-india.git
+#### git clone : https://github.com/Ravi10300/Data-Analyst-Project
 #### Open the .pbix file with Power BI Desktop (ensure it's installed from Power BI Desktop).
 #### Explore the dashboard by interacting with the charts and filters.
 # Project Screenshots
