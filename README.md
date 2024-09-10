@@ -17,8 +17,8 @@ The data has been sourced from CognoRise and processed using Microsoft Excel to 
 #### Demographic Breakdown: Analyze unemployment based onstates, year & month, area (rural or urban) .
 # Data Source
 #### Dataset: Unemployement during COVID-19 In India
-#### Source: Kaggle
-#### Data Range: 2019 - 2021
+#### Source: CognoRise
+#### Data Range: 2019 - 2020
 #### Fields: State, Unemployment Rate, Rural,Urban and Year & Month.
 # Tools Used
 #### Power BI: For creating dashboards and interactive visualizations.
