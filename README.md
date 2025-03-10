@@ -37,5 +37,5 @@ The data has been sourced from CognoRise and processed using Microsoft Excel to 
 # Contact
 ## For questions, suggestions, or feedback, feel free to contact me:
 
-### Email: ravishrivastav370@gmail.com
-### LinkedIn: https://www.linkedin.com/in/%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%A2-%F0%9D%90%8A%F0%9D%90%AE%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%AB-%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AF-5859b0246/
+### Email: ravishrivastav.da@gmail.com
+### LinkedIn: https://www.linkedin.com/in/ravi-shrivastav-5859b0246/
